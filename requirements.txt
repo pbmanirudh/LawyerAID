@@ -8,3 +8,4 @@ streamlit
 langchain-fireworks
 einops
 langchain-community.document_loaders
+langchain-community
